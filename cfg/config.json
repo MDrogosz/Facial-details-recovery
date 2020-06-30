@@ -1,0 +1,14 @@
+{
+	"parameters" : 
+			{		"im_size" : 128,
+					"batch_size" : 64,
+					"use_cuda" : true,
+					"epochs" : 3,
+					"save_every" : 1
+			},
+	"paths" :
+		{	"disc_save_path" : "saved_model",
+			"gen_save_path" : "saved_model",
+			"data_dir" : "trainingset"
+		}	
+}
