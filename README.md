@@ -1,4 +1,4 @@
-# Quality recovery
+# Facial details recovery
 
 **Introduction**
 
